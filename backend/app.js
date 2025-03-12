@@ -1,8 +1,8 @@
 const express = require ('express');
 const connectDB = require('./config/db');
-const returnRoutes = require('./models/routes/returnRoutes');
+const returnRoutes = require('./routes/returnRoutes');
 const dotenv = require('dotenv');
-const router = require('./models/routes/returnRoutes');
+const router = require('./routes/returnRoutes');
 
 dotenv.config();
 
