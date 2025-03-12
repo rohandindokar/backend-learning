@@ -1,0 +1,4 @@
+body { font-family: Arial; padding: 20px; }
+#chatbox { height: 300px; border: 1px solid gray; padding: 10px; overflow-y: scroll; margin-bottom: 10px; }
+input { width: 80%; padding: 10px; }
+button { padding: 10px; }
